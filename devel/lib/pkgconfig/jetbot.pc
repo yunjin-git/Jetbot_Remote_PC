@@ -1,0 +1,8 @@
+prefix=/home/yunjin/catkin_ws/devel
+
+Name: jetbot
+Description: Description of jetbot
+Version: 0.0.0
+Cflags: -I/home/yunjin/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime message_generation
